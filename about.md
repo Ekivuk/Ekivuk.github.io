@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-Some information about you!
+Поэт, филосов, тунеядец, простокваш и экивук из сибирского города Иркутска, что расположен на Байкале
 
-### More Information
+### Ещё информация
 
-A place to include any other types of information that you'd like to include about yourself.
+На этом пока всё
 
-### Contact me
+### Для связи
 
-[email@domain.com](mailto:email@domain.com)
+[scraffi@gmail.com](mailto:scraffi@gmail.com)
