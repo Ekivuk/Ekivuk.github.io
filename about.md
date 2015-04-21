@@ -8,6 +8,7 @@ permalink: /about/
 
 ### Ещё информация
 
+[Вконтакте] (vk.com/eleventwelve)
 На этом пока всё
 
 ### Для связи
